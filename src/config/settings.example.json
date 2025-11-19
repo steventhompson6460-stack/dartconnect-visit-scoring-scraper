@@ -1,0 +1,9 @@
+{
+ "mode": "historical",
+ "base_url": "https://example-dartconnect-api.mock",
+ "events_file": "data/events_list.txt",
+ "output_path": "output.json",
+ "latest_matches": [
+ { "match_id": "MCH_1001", "event_id": "EV_LATEST" }
+ ]
+}
